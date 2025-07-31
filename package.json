@@ -1,0 +1,26 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React Learn",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi-asg03/Namaste_React_01.git"
+  },
+  "keywords": [],
+  "author": "Abhishek Gawali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhi-asg03/Namaste_React_01/issues"
+  },
+  "homepage": "https://github.com/abhi-asg03/Namaste_React_01#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
